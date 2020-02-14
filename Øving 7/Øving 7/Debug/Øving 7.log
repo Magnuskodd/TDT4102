@@ -1,0 +1,9 @@
+﻿  Emoji.cpp
+c:\users\magnu\documents\tdt4102\øving 7 ny\øving 7\øving 7\emoji.cpp(41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\magnu\documents\tdt4102\øving 7 ny\øving 7\øving 7\emoji.cpp(52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\magnu\documents\tdt4102\øving 7 ny\øving 7\øving 7\emoji.cpp(64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\magnu\documents\tdt4102\øving 7 ny\øving 7\øving 7\emoji.cpp(86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\magnu\documents\tdt4102\øving 7 ny\øving 7\øving 7\emoji.cpp(87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Øving 7.vcxproj -> C:\Users\magnu\Documents\TDT4102\Øving 7 ny\Øving 7\Debug\Øving 7.exe
