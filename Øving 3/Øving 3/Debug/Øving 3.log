@@ -1,0 +1,6 @@
+﻿  cannonball.cpp
+c:\users\magnu\documents\tdt4102\øving 3\øving 3\øving 3\cannonball.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+c:\users\magnu\documents\tdt4102\øving 3\øving 3\øving 3\main.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Øving 3.vcxproj -> C:\Users\magnu\Documents\TDT4102\Øving 3\Øving 3\Debug\Øving 3.exe
